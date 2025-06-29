@@ -2,7 +2,16 @@
 
 <!--
 **Jeaho06/Jeaho06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 🎮 대표 프로젝트: 반칙 오목
 
+AI가 반칙을 사용하는 새로운 컨셉의 온라인 오목 게임입니다.
+
+**[➡️ 게임 플레이하러 가기](https://www.omok.ai.kr)**
+<br>
+<a href="https://www.omok.ai.kr">
+  <img src="https://i.imgur.com/17c4d6.png" width="600" alt="오목 게임 스크린샷">
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
