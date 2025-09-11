@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ### 🎮 대표 프로젝트: JF 프로그래밍 언어
 새로운 프로그래밍 언어를 만들어봤습니다.
 
-**[➡️ 이동]([https://www.omok.ai.kr](https://jf-language-online.pages.dev/))**
+**[➡️ 이동]([https://jf-language-online.pages.dev/])**
