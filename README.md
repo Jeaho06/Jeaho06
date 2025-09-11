@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### 🎮 대표 프로젝트: 반칙 오목
+### 🎮 대표 프로젝트: JF 프로그래밍 언어
+새로운 프로그래밍 언어를 만들어봤습니다.
 
-AI가 반칙을 사용하는 새로운 컨셉의 온라인 오목 게임입니다.
-한번 해보세요.
-
-**[➡️ 게임 플레이하러 가기](https://www.omok.ai.kr)**
+**[➡️ 이동]([https://www.omok.ai.kr](https://jf-language-online.pages.dev/))**
